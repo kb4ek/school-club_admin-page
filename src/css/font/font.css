@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'InkFree';
+  src: url('InkFree.eot');
+  src: url('InkFree.eot?#iefix') format('embedded-opentype'),
+    url('InkFree.svg#InkFree') format('svg'), url('InkFree.ttf') format('truetype'),
+    url('InkFree.woff') format('woff'), url('Inkfree.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'NotoSerifKR-Light-Alphabetic';
+  src: url('NotoSerifKR-Light-Alphabetic.eot');
+  src: url('NotoSerifKR-Light-Alphabetic.eot?#iefix') format('embedded-opentype'),
+    url('NotoSerifKR-Light-Alphabetic.svg#NotoSerifKR-Light-Alphabetic') format('svg'),
+    url('NotoSerifKR-Light-Alphabetic.ttf') format('truetype'),
+    url('NotoSerifKR-Light-Alphabetic.woff') format('woff'),
+    url('NotoSerifKR-Light-Alphabetic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
